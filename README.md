@@ -85,13 +85,7 @@ This project mimics a **real-world e-commerce analytics use case** where busines
 
 ---
 
-## 📎 Links  
-🔗 [Project Repository](#)  
-🔗 [LinkedIn Post](#) *(if you want to cross-link your showcase)*  
-
----
-
 ## 📢 Author  
 👤 **Tarun Pal**  
-- 🌐 [LinkedIn](#)  
+ 
 - 💻 Data Analyst | SQL | Power BI | Python  
